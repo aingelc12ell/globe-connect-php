@@ -1,5 +1,5 @@
 {
-    "name": "mannysoft/globe-connect-php",
+    "name": "globelabs/globe-connect-php",
     "description": "Globe Api",
     "require": {
         "php": ">=7.0.0"
