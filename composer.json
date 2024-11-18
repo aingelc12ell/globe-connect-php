@@ -1,5 +1,5 @@
 {
-    "name": "globelabs/globe-connect-php",
+    "name": "aingelc12ell/globe-connect-php",
     "description": "Globe Api",
     "require": {
         "php": ">=7.0.0"
